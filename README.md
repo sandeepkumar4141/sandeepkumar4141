@@ -18,7 +18,7 @@ Currently exploring:
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: C, C++, R, Python, Rust, MATLAB
+- **Languages**: C, C++, R, Python, Java, MATLAB
 - **Software**: MATLAB/Simulink, Arduino IDE, Proteus, Multisim
 - **Hardware**: Arduino, Raspberry Pi, Sensors, Microcontrollers
 - **Others**: Basic Circuit Design, Soldering, Team Collaboration
